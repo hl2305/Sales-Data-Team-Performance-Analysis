@@ -3,7 +3,7 @@
 ## Data Overview
 The objective of this project is to investigate the sales history data and sales team performance data of a technology company in order to identify patterns and create improvements and recommendations that aims to optimize the sales pipeline efficiency and identifying key factors of sales performance.
 
-The data is sourced from [Kaggle](https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities/data) as a sample dataset for skill practice for data analysts. The data was split into 5 tables: accounts, products, sales_pipeline, sales_teams and data_dictionary. Each table are relational to each other, with the entity relationship diagram shown as follows:
+The data is sourced from [Kaggle](https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities/data) as a sample dataset for skill practice for data analysts. The data was split into 4 tables: accounts, products, sales_pipeline and sales_teams. Each table are relational to each other, with the entity relationship diagram shown as follows:
 
 <img width="500" height="800" alt="ER diagram" src="https://github.com/user-attachments/assets/c2a8a315-f4c2-4041-9d17-32429b88464c" />
 
