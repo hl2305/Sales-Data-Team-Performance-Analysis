@@ -1,4 +1,4 @@
-# Sales Data & Team Performance Analysis (Python)
+# Sales Data & Team Performance Analysis (Python + Power BI)
 
 ## Data Overview
 The objective of this project is to investigate the sales history data and sales team performance data of a technology company in order to identify patterns and create improvements and recommendations that aims to optimize the sales pipeline efficiency and identifying key factors of sales performance.
