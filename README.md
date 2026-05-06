@@ -218,3 +218,12 @@ The **Central** region performs the best in sales, with 1629 won deals and 975 l
 #### Prioritizing High-Value Opportunities
 
 - It was observed that high-value deals that are valued above `$20,000` can close quickly even within 1-2 weeks after the engage date. Therefore, deal scoring shall be implemented based on potential value, account company and market demand in order to evaluate the winning rate for these deals. Senior resources shall also be allocated to these high-value deals to maximize the success rate for these opportunities.
+
+## Dashboard
+
+A dashboard was created using Power BI for the sales trend and sales team performance data. The dashboard visualizes metrics such as revenue trends, product sales, top ranked accounts as well as individual sales agent performance by average deal size and number of won deals.
+
+<img width="960" height="600" alt="Screenshot 2026-05-06 161526" src="https://github.com/user-attachments/assets/e6f9505a-5d31-4444-88e3-0e95769e6bb0" />
+<img width="960" height="600" alt="Screenshot 2026-05-06 161535" src="https://github.com/user-attachments/assets/8968a58c-6e40-4f79-82cf-f4c7f0e0ccb7" />
+
+
